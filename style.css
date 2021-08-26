@@ -278,7 +278,7 @@ h2 {
   border: none;
   border-radius: 0.7rem;
   font-size: 1.8rem;
-  background-color: #fff;
+  background-color: rgb(186, 209, 200);
   cursor: pointer;
   transition: all 0.3s;
 }
